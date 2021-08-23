@@ -7,18 +7,18 @@
   I have used ORM tool(Hibernate) for the DB interaction.
 
   I have worked in SOA & Microservice Architecture.
-  I am following 12 Factor App <https://12factor.net/> as guiding principle of my architecture style.
+  I am following [12 Factor App](https://12factor.net/) as guiding principle of my architecture style.
 
-  I follow TDD, SOLID principle <https://en.wikipedia.org/wiki/SOLID> & Agile methodologies while developing application.
+  I follow Test Driven Development, [SOLID principle](https://en.wikipedia.org/wiki/SOLID) & Agile methodologies while developing application.
 
-	I am influenced by Martin Fowler<https://martinfowler.com/>.
+	I am influenced by Martin Fowler <https://martinfowler.com/>.
 	
-	Bealdung<https://www.baeldung.com/> & MkYoung<https://mkyong.com/> are my other goto/quick reference websites.
+	<https://www.baeldung.com/> & <https://mkyong.com/> are my other goto/quick reference websites.
 
 	Check out my 
 	-	Github profile - <https://github.com/rup-tuhin/>
-	-	LinkedIn <https://www.linkedin.com/in/rup-majumder/>
-	- 	StackOverFlow <https://stackoverflow.com/users/1531911/rup-majumder>
+	-	LinkedIn - <https://www.linkedin.com/in/rup-majumder/>
+	- 	StackOverFlow - <https://stackoverflow.com/users/1531911/rup-majumder>
 
      
      
