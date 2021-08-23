@@ -16,16 +16,15 @@
 	Bealdung<https://www.baeldung.com/> & MkYoung<https://mkyong.com/> are my other goto/quick reference websites.
 
 	Check out my 
-	
-		-	Github profile - <https://github.com/rup-tuhin/>
-		-	LinkedIn <https://www.linkedin.com/in/rup-majumder/>
-		- StackOverFlow <https://stackoverflow.com/users/1531911/rup-majumder>
+	-	Github profile - <https://github.com/rup-tuhin/>
+	-	LinkedIn <https://www.linkedin.com/in/rup-majumder/>
+	- 	StackOverFlow <https://stackoverflow.com/users/1531911/rup-majumder>
 
      
      
 - 👀 I’m interested in Web Applications, using Java, Spring, Hibernate, NoSQL. Containerizing the application using docker. And deploy using Kubernetes in Openshift.
 I can create CI/CD pipelines, using Jenkins. Maven as build tool.
-- 🌱 I’m currently learning React.js, Node & Openshift Container Platform. AWS
+- 🌱 I’m currently learning about React.js, Node & Openshift Container Platform. AWS Cloud in my next interest area.
 - 💞️ I’m looking to collaborate on Web application development. Hosting on the cloud or Using the AWS platform will ignite my passion and learning zeal.
 - 📫 You can reach me - majumder_rup@yahoo.com / +91-8050656566
 
