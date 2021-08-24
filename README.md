@@ -11,9 +11,6 @@
 
   I follow Test Driven Development, [SOLID principle](https://en.wikipedia.org/wiki/SOLID) & Agile methodologies while developing applications.
 
-	I am influenced by Martin Fowler <https://martinfowler.com/>.
-	
-	<https://www.baeldung.com/> & <https://mkyong.com/> are my other goto/quick reference websites.
 
 	Check out my 
 	-	Github profile - <https://github.com/rup-tuhin/>
